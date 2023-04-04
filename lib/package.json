@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "inquirer": "^9.1.5",
+    "svgdom": "^0.1.13"
+  }
+}
